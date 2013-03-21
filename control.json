@@ -2,7 +2,7 @@
     "name"    : "webapps-jquery-lib", 
     "version" : "0.1.0",
     "classes" : ["JQuery"],
-    "static"  : [ "jquery-ui" ],
+    "static"  : [ "jquery" ],
     "deps"    : [ 
         "webapps-framework-lib"
     ]
